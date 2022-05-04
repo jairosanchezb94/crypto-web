@@ -6,6 +6,8 @@ It is thealized in with:
 - React
 - API coincap (https://docs.coincap.io/)
 - Tailwind
+![Screenshot 2022-05-04 134646](https://user-images.githubusercontent.com/32551746/166675172-41ec5100-7d96-47c2-a12b-6d13c6a57ad6.png)
+![Screenshot 2022-05-04 134701](https://user-images.githubusercontent.com/32551746/166675175-bc60d326-d9e7-4eb3-8f5c-c32961a7717e.png)
 
 ## Available Scripts
 
