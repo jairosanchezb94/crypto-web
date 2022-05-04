@@ -11,7 +11,7 @@ const TableRow = ({ data = [] }) => {
   };
   return (
     <div
-      className=" w-full flex flex-row hover:bg-purple-50 cursor-pointer border-b border-purple-900 px-2 items-center"
+      className=" w-full flex flex-row hover:bg-purple-50 cursor-pointer border-b border-purple-500 px-2 items-center"
       onClick={() => handleClick(data.id)}
     >
       <div className="w-4/12 flex flex-row justify-start items-center py-2">

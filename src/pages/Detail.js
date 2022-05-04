@@ -29,7 +29,7 @@ const Detail = ({ history }) => {
         <h1>Cargando</h1>
       ) : (
         <div class="h-full w-full lg:w-2/3">
-          <div class="h-auto w-full flex flex-col text-center text-lg font-medium text-gray-900 py-4 bg-purple-900 border-b-2 rounded-t-md p-4">
+          <div class="h-auto w-full flex flex-col text-center text-lg font-medium text-gray-900 py-4 bg-purple-500 border-b-2 rounded-t-md p-4">
             <div className=" min-w-max flex flex-row justify-between items-center py-2">
               <div className="flex flex-row">
                 <img
