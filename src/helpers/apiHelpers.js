@@ -26,7 +26,7 @@ export const getAssetHistory = (coin) => {
 };
 
 export const getMarkets = (coin) => {
-  return fetch(`${url}/assets/${coin}/markets?limit=5`)
+  return fetch(`${url}/assets/${coin}/markets?limit=10`)
     .then((res) => res.json())
     .then((res) => res.data);
 };
